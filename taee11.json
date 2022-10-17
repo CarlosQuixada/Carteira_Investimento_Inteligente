@@ -1,0 +1,4075 @@
+{
+    "success": true,
+    "data": {
+        "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022
+        ],
+        "grid": [
+            {
+                "isHeader": true,
+                "row": 0,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "#",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "title": "Data de referência",
+                        "value": "2T2022",
+                        "symbol": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "title": "Análise horizontal",
+                        "value": "AH",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "AV",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "title": "Data de referência",
+                        "value": "1T2022",
+                        "symbol": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "title": "Análise horizontal",
+                        "value": "AH",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "AV",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "title": "Data de referência",
+                        "value": "4T2021",
+                        "symbol": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "title": "Análise horizontal",
+                        "value": "AH",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "AV",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "title": "Data de referência",
+                        "value": "3T2021",
+                        "symbol": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "title": "Análise horizontal",
+                        "value": "AH",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "AV",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "title": "Data de referência",
+                        "value": "2T2021",
+                        "symbol": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "AV",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false
+            },
+            {
+                "isHeader": false,
+                "row": 1,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Receita Líquida - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "847,72 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "6,54",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "100,00",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "795,65 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "10,98",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "100,00",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "716,96 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-23,92",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "100,00",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "942,32 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "4,20",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "100,00",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "904,32 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "100,00",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/r/receita-liquida",
+                "gridLineModel": {
+                    "financialType": 0,
+                    "key": "ReceitaLiquida",
+                    "name": "Receita Líquida - (R$)",
+                    "values": [
+                        847721000.0,
+                        795647000.0,
+                        716958000.0,
+                        942321000.0,
+                        904321000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/r/receita-liquida"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 2,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Custos - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-93,80 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "34,55",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-11,06",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-69,71 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-44,42",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-8,76",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-125,42 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-35,69",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-17,49",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-195,02 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "48,31",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-20,70",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-131,50 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-14,54",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": true,
+                "emptyLine": false,
+                "highlight": false,
+                "gridLineModel": {
+                    "financialType": 1,
+                    "key": "Despesas",
+                    "name": "Custos - (R$)",
+                    "values": [
+                        -93797000.0,
+                        -69712000.0,
+                        -125418000.0,
+                        -195024000.0,
+                        -131497000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": true,
+                    "format": "M",
+                    "highlight": false
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 3,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Lucro Bruto - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "753,92 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "3,86",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "88,94",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "725,94 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "22,72",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "91,24",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "591,54 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-20,84",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "82,51",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "747,30 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-3,30",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "79,30",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "772,82 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "85,46",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/l/lucro-bruto",
+                "gridLineModel": {
+                    "financialType": 2,
+                    "key": "ResultadoOperacional",
+                    "name": "Lucro Bruto - (R$)",
+                    "values": [
+                        753924000.0,
+                        725935000.0,
+                        591540000.0,
+                        747297000.0,
+                        772824000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/l/lucro-bruto"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 4,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Despesas/Receitas Operacionais - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "171,21 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "1,09",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "20,20",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "169,36 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "72,10",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "21,29",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "98,41 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-9,65",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "13,73",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "108,92 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-55,04",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "11,56",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "242,23 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "26,79",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "",
+                "gridLineModel": {
+                    "financialType": 3,
+                    "key": "DespesaOperacional",
+                    "name": "Despesas/Receitas Operacionais - (R$)",
+                    "values": [
+                        171208000.0,
+                        169356000.0,
+                        98408000.0,
+                        108915000.0,
+                        242225000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": ""
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 5,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "EBITDA - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "703,00 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "2,07",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "82,93",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "688,72 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "26,12",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "86,56",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "546,08 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-23,26",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "76,17",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "711,56 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-3,67",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "75,51",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "738,69 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "81,68",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/e/ebitda",
+                "gridLineModel": {
+                    "financialType": 4,
+                    "key": "Ebitda",
+                    "name": "EBITDA - (R$)",
+                    "values": [
+                        702998000.0,
+                        688719000.0,
+                        546082000.0,
+                        711562000.0,
+                        738691000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/e/ebitda"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 6,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Amortização/Depreciação",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-3,94 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-3,48",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-0,47",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-4,09 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "8,41",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-0,51",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-3,77 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "0,78",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-0,53",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-3,74 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-1,66",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-0,40",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-3,80 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-0,42",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": true,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/a/amortizacao",
+                "gridLineModel": {
+                    "financialType": 701,
+                    "key": "AmortizacaoDepreciacao",
+                    "name": "Amortização/Depreciação",
+                    "values": [
+                        -3944000.0,
+                        -4086000.0,
+                        -3769000.0,
+                        -3740000.0,
+                        -3803000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": true,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/a/amortizacao"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 7,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "EBIT - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "925,13 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "3,33",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "109,13",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "895,29 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "29,76",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "112,52",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "689,95 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-19,42",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "96,23",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "856,21 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-15,65",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "90,86",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "1.015,05 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "112,24",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/e/ebit",
+                "gridLineModel": {
+                    "financialType": 5,
+                    "key": "Ebit",
+                    "name": "EBIT - (R$)",
+                    "values": [
+                        925132000.0,
+                        895291000.0,
+                        689948000.0,
+                        856212000.0,
+                        1015049000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/e/ebit"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 8,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Resultado não operacional - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/r/resultado-nao-operacional",
+                "gridLineModel": {
+                    "key": "ResultadoNaoOperacional",
+                    "name": "Resultado não operacional - (R$)",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/r/resultado-nao-operacional"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 9,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Resultado Financeiro - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-260,58 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-14,20",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-30,74",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-228,18 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-2,09",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-28,68",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-223,52 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "2,97",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-31,18",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-230,36 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-33,05",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-24,45",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-173,14 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-19,15",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/r/resultado-financeiro",
+                "gridLineModel": {
+                    "financialType": 6,
+                    "key": "ResultadoFinanceiro",
+                    "name": "Resultado Financeiro - (R$)",
+                    "values": [
+                        -260577000.0,
+                        -228179000.0,
+                        -223515000.0,
+                        -230358000.0,
+                        -173138000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/r/resultado-financeiro"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 10,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Impostos - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-100,53 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-6,21",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-11,86",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-107,19 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "147,24",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-13,47",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-43,36 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-51,27",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-6,05",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-88,97 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-38,23",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-9,44",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-144,02 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-15,93",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": true,
+                "emptyLine": false,
+                "highlight": false,
+                "gridLineModel": {
+                    "financialType": 7,
+                    "key": "Impostos",
+                    "name": "Impostos - (R$)",
+                    "values": [
+                        -100533000.0,
+                        -107189000.0,
+                        -43355000.0,
+                        -88965000.0,
+                        -144016000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": true,
+                    "format": "M",
+                    "highlight": false
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 11,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Lucro Líquido - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "564,02 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "0,73",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "66,53",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "559,92 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "32,35",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "70,37",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "423,08 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-21,20",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "59,01",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "536,89 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-23,07",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "56,98",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "697,90 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "77,17",
+                        "symbol": "%",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/l/lucro-liquido",
+                "gridLineModel": {
+                    "financialType": 8,
+                    "key": "LucroLiquido",
+                    "name": "Lucro Líquido - (R$)",
+                    "values": [
+                        564022000.0,
+                        559923000.0,
+                        423078000.0,
+                        536889000.0,
+                        697895000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/l/lucro-liquido"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 12,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Lucro atribuído a Controladora",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "564,02 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "0,73",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "559,92 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "32,35",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "423,08 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-21,20",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "536,89 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-23,07",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "697,90 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "",
+                "gridLineModel": {
+                    "key": "LucroLiquidoControlador",
+                    "name": "Lucro atribuído a Controladora",
+                    "values": [
+                        564022000.0,
+                        559923000.0,
+                        423078000.0,
+                        536889000.0,
+                        697895000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": ""
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 13,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Lucro atribuído a Não Controladores",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "0,00",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "0,00",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "0,00",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "0,00",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "0,00",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "",
+                "gridLineModel": {
+                    "key": "LucroLiquidoNaoControlador",
+                    "name": "Lucro atribuído a Não Controladores",
+                    "values": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": ""
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 14,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "CAPEX - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/c/capex",
+                "gridLineModel": {
+                    "financialType": 705,
+                    "key": "Capex",
+                    "name": "CAPEX - (R$)",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/c/capex"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 15,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Dívida Bruta - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "8.636,71 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "12,32",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "7.689,63 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "13,00",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "6.804,89 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-2,80",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "7.001,10 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "2,93",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "6.802,00 M",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/d/divida-bruta",
+                "gridLineModel": {
+                    "financialType": 306,
+                    "key": "DividaBruta",
+                    "name": "Dívida Bruta - (R$)",
+                    "values": [
+                        8636712000.0,
+                        7689634000.0,
+                        6804886000.0,
+                        7001102000.0,
+                        6801995000.0
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/d/divida-bruta"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 16,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Dívida Líquida - (R$)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/d/divida-liquida",
+                "gridLineModel": {
+                    "financialType": 307,
+                    "key": "DividaLiquida",
+                    "name": "Dívida Líquida - (R$)",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/d/divida-liquida"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 17,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "ROE - (%)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/r/roe",
+                "gridLineModel": {
+                    "key": "ROE",
+                    "name": "ROE - (%)",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "sufix": "%",
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/r/roe"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 18,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "ROIC - (%)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/r/roic",
+                "gridLineModel": {
+                    "key": "ROIC",
+                    "name": "ROIC - (%)",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "sufix": "%",
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/r/roic"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 19,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Margem Bruta - (%)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "88,94%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-2,52",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "91,24%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "10,58",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "82,51%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "4,05",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "79,30%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-7,21",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "85,46%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/m/margem-bruta",
+                "gridLineModel": {
+                    "key": "MargemBruta",
+                    "name": "Margem Bruta - (%)",
+                    "values": [
+                        88.94,
+                        91.24,
+                        82.51,
+                        79.3,
+                        85.46
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "sufix": "%",
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/m/margem-bruta"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 20,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Margem Ebitda - (%)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "82,93%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-4,19",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "86,56%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "13,64",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "76,17%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "0,87",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "75,51%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-7,55",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "81,68%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "",
+                "gridLineModel": {
+                    "key": "MargemEbitda",
+                    "name": "Margem Ebitda - (%)",
+                    "values": [
+                        82.93,
+                        86.56,
+                        76.17,
+                        75.51,
+                        81.68
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "sufix": "%",
+                    "format": "M",
+                    "highlight": false,
+                    "article": ""
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 21,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Margem Líquida - (%)",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "66,53%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-5,46",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "70,37%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "19,25",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "59,01%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "3,56",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "56,98%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "-26,16",
+                        "symbol": "%",
+                        "hide": false,
+                        "hasColor": true,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "77,17%",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/m/margem-liquida",
+                "gridLineModel": {
+                    "key": "MargemLiquida",
+                    "name": "Margem Líquida - (%)",
+                    "values": [
+                        66.53,
+                        70.37,
+                        59.01,
+                        56.98,
+                        77.17
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "sufix": "%",
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/m/margem-liquida"
+                }
+            },
+            {
+                "isHeader": false,
+                "row": 22,
+                "spaces": 0,
+                "columns": [
+                    {
+                        "value": "Dívida Líquida/Ebitda",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AH",
+                        "value": "",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "DATA",
+                        "value": "-",
+                        "hide": false,
+                        "hasColor": false,
+                        "ignoreReverse": false,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    },
+                    {
+                        "name": "AV",
+                        "title": "Análise vertical",
+                        "value": "-",
+                        "symbol": "",
+                        "hide": true,
+                        "hasColor": false,
+                        "ignoreReverse": true,
+                        "timeType": 0,
+                        "lastTwelveMonths": false
+                    }
+                ],
+                "reverse": false,
+                "emptyLine": false,
+                "highlight": false,
+                "article": "https://statusinvest.com.br/termos/d/divida-liquida-ebitda",
+                "gridLineModel": {
+                    "key": "DividaLiquidaEbitda",
+                    "name": "Dívida Líquida/Ebitda",
+                    "values": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "ranks": [],
+                    "emptyLine": false,
+                    "spaces": 0,
+                    "reverse": false,
+                    "format": "M",
+                    "highlight": false,
+                    "article": "https://statusinvest.com.br/termos/d/divida-liquida-ebitda"
+                }
+            }
+        ],
+        "chart": []
+    }
+}
